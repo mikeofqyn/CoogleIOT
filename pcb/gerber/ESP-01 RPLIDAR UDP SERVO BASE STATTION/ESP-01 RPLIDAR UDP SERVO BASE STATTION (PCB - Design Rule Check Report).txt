@@ -1,0 +1,66 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Sunday, June 05, 2022
+Design Path:        C:\OneDrive - personal\OneDrive\Electrónica\DesignSpark Proyectos\ESP32 RPLIDAR DRIVER\ESP-01 RPLIDAR UDP SERVO BASE STATTION.pcb
+Design Title:       
+Created:            19/09/2021 13:05:32
+Last Saved:         04/06/2022 19:01:30
+Editing Time:       740 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   No
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.
